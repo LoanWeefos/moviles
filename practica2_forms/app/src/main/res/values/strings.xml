@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Form_233267</string>
+    <string name="email">Email</string>
+    <string name="required">Required</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="guardar">Guardar</string>
+    <string name="seleccioneungenero">Seleccione un género</string>
+</resources>

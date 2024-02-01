@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Form_233267" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/cafeClaro</item>
+        <item name="colorPrimaryVariant">@color/azul</item>
+        <item name="colorOnPrimary">@color/casiNegro</item>
+    </style>
+
+    <style name="Theme.Form_233267" parent="Base.Theme.Form_233267" />
+</resources>
