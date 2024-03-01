@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="user_id">Id del usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="save_user_data">Guardar usuario</string>
+    <string name="clear_user_data">Limpiar datos</string>
+    <string name="show">Mostrar</string>
+    <string name="show_default">Mostrar Default</string>
+</resources>

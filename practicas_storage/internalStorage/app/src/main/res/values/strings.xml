@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="file_name">Nombre archivo\n</string>
+    <string name="file_data">Datos</string>
+    <string name="save">Guardar</string>
+    <string name="view">Ver</string>
+</resources>
